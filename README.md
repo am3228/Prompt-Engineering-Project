@@ -5,7 +5,7 @@ https://www.promptingguide.ai/introduction/elements
 
 https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
 
-Cornell University: https://arxiv.org/abs/2201.11903
+https://arxiv.org/abs/2201.11903
 
 ### OpenAI API Used:
 https://platform.openai.com/playground
