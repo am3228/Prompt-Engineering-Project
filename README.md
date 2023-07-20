@@ -3,6 +3,8 @@
 ### Guides Used:
 https://www.promptingguide.ai/introduction/elements
 
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
+
 ### OpenAI API Used:
 https://platform.openai.com/playground
 
