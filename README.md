@@ -7,10 +7,13 @@ https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineerin
 
 Cornell University:
 
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 https://arxiv.org/abs/2201.11903
 
+Large Language Models are Zero-Shot Reasoners
 https://arxiv.org/abs/2205.11916
 
+Automatic Chain of Thought Prompting in Large Language Models
 https://arxiv.org/abs/2210.03493
 
 ### OpenAI API Used:
