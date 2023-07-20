@@ -1,5 +1,7 @@
 # Prompt-Engineering-Project
 
+Summary: Combining my skills within Anthropology, Communications and Computer Science to create ethical prompts. My project will be targeted towards this goal as 
+
 ### Guides Used:
 https://www.promptingguide.ai/introduction/elements
 
